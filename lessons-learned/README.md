@@ -8,7 +8,7 @@ Feito apenas com propósitos educacionais.
 
 ## Preview do projeto
 
-![preview](./preview.gif)
+![preview](./images/preview.gif)
 
 ---
 
