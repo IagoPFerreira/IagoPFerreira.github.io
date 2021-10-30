@@ -1,6 +1,6 @@
 # Boas vindas ao repositório de projetos
 
-Neste repositório ficarão salvos os projetos que estão presentes no meu portfólio, que pode ser acessado pelo link ➡️ <https://iagopferreira.github.io/portifolio-react>
+Neste repositório ficarão salvos os projetos que estão presentes no meu portfólio, que pode ser acessado pelo link ➡️ <https://iagopferreira.github.io/portfolio-react>
 
 ---
 
