@@ -31,7 +31,7 @@ cd projetos-iago
 Passo 3. Clone o projeto:
 
 ~~~bash
-git clone git@github.com:IagoPFerreira/pixels-art.git
+git clone git@github.com:IagoPFerreira/to-do-list.git
 ~~~
 
 Passo 4. Após terminado a clonagem, abra o diretório clonado e dê um duplo clique no arquivo `index.html` e o projeto vai abrir em seu navegador, não é necessário instalar mais nada. A aplicação deve se parecer com essa:
